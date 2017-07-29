@@ -1,7 +1,18 @@
 For beginning, following : https://doc.rust-lang.org/book/getting-started.html
 
+### Tools
 
-This is the project directory,
+rustup : the toolchain manager like virtualenv for python,
+and nvm for node.
+
+cargo : the package manager like npm.
+
+rustfmt : formats rust code, like prettier.
+
+racer : the autocomplete engine
+
+This is the project directory is where Cargo.toml lives,
+like package.json for js.
 
 for stuff like
 READMEs, license info, and anything not related to code
@@ -29,4 +40,8 @@ Project template generation command (like npm init):
    cargo new project_name
    
 
+### Learning Tutorial
 
+http://aml3.github.io/RustTutorial/html/toc.html
+
+Full of examples: https://rustbyexample.com/hello/comment.html

@@ -1,0 +1,6 @@
+[package]
+name = "learningrust"
+version = "0.1.0"
+authors = ["chetnashah <chetshah80@gmail.com>"]
+
+[dependencies]
